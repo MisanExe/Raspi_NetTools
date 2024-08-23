@@ -1,0 +1,16 @@
+network={
+	ssid=KATIE
+	psk=b
+{network={
+	ssid=KATIE
+	psk=b
+{network={
+	ssid=KATIE
+	psk=b
+{network={
+	ssid=KATIE
+	psk=b
+{network={
+	ssid=KATIE
+	psk=b
+{
